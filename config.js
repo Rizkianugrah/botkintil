@@ -9,7 +9,7 @@ global.APIs = {
 global.APIKeys = {
   'https://melcanz.com': 'Subscribe MelcanzYT'
 }
-,,.....
+
 global.packname = 'ig @maulana_yusuf.id'
 global.author = '© 𝓜𝓪𝓾𝓵𝓪𝓷𝓪 𝓨𝓾𝓼𝓾𝓯'
 global.wm = '© 𝓜𝓪𝓾𝓵𝓪𝓷𝓪 𝓨𝓾𝓼𝓾𝓯'
