@@ -16,13 +16,13 @@ Rp. 5,000  Ovo
 Rp. 10,000 Pulsa Telkomsel
 
 tertarik? hubungi:
-@+6281387089252 (yusup)
-@+12096710019 (bot)
+@6281387089252 (yusup)
+@623199789390 (bot)
 `.trim(),
         
 "businessOwnerJid": "12096710019@s.whatsapp.net"
         },
-        "footerText": "wa.me/6281387089252\nwa.me/12096710019"
+        "footerText": "wa.me/6281387089252\nwa.me/6283199789390"
     }
     conn.sendMessage(m.chat, listMessage, 'listMessage', { quoted: m, contextInfo: { mentionedJid: conn.parseMention(listMessage.description) } })
 }
