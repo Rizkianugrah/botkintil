@@ -64,7 +64,7 @@ global.loadDatabase = async function loadDatabase() {
 loadDatabase()
 
 global.conn = new WAConnection()
-conn.browserDescription = ['Melcanz-bot', 'Chrome', '3.0']
+conn.browserDescription = ['Yusuf-bot', 'Chrome', '3.0']
 let authFile = opts['session'] ? opts['session'] + '.json' : `session.data.json`
 if (fs.existsSync(authFile)) conn.loadAuthInfo(authFile)
 if (opts['trace']) conn.logger.level = 'trace'
@@ -83,7 +83,7 @@ conn.user = {
 }
 if (opts['test']) {
   conn.user = {
-    jid: '2219191@s.whatsapp.net',
+    jid: '6281387089252@s.whatsapp.net',
     name: 'test',
     phone: {}
   }
